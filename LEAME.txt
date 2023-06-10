@@ -1,0 +1,2 @@
+Consumo mediante postman 
+http://localhost:5001/api/consultaDetalleDeVentas/30
